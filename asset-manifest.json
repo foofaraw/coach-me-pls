@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coach-me-pls/static/css/main.2f025802.chunk.css",
+    "main.js": "/coach-me-pls/static/js/main.5669a8a1.chunk.js",
+    "main.js.map": "/coach-me-pls/static/js/main.5669a8a1.chunk.js.map",
+    "runtime-main.js": "/coach-me-pls/static/js/runtime-main.e0cd9c96.js",
+    "runtime-main.js.map": "/coach-me-pls/static/js/runtime-main.e0cd9c96.js.map",
+    "static/js/2.f8dc057d.chunk.js": "/coach-me-pls/static/js/2.f8dc057d.chunk.js",
+    "static/js/2.f8dc057d.chunk.js.map": "/coach-me-pls/static/js/2.f8dc057d.chunk.js.map",
+    "index.html": "/coach-me-pls/index.html",
+    "precache-manifest.5fdce0d2cea639864d9736cbd5eab7fa.js": "/coach-me-pls/precache-manifest.5fdce0d2cea639864d9736cbd5eab7fa.js",
+    "service-worker.js": "/coach-me-pls/service-worker.js",
+    "static/css/main.2f025802.chunk.css.map": "/coach-me-pls/static/css/main.2f025802.chunk.css.map",
+    "static/js/2.f8dc057d.chunk.js.LICENSE.txt": "/coach-me-pls/static/js/2.f8dc057d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0cd9c96.js",
+    "static/js/2.f8dc057d.chunk.js",
+    "static/css/main.2f025802.chunk.css",
+    "static/js/main.5669a8a1.chunk.js"
+  ]
+}
